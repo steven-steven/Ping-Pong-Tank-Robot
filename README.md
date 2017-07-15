@@ -1,7 +1,7 @@
-#r Ping-Pong-Tank-Robot
+# Ping-Pong-Tank-Robot
 Arduino and Tetrix-based robot that moves around, rotate, and shoots ping-pong
 
-<img src="https://github.com/steven-steven/Ping-Pong-Tank-Robot/blob/master/IMG_20170714_173230_040.jpg" width="200" text-align="center"/>
+<img src="https://github.com/steven-steven/Ping-Pong-Tank-Robot/blob/master/IMG_20170714_173230_040.jpg" width="200" align="center"/>
 
 Main components and features include: 
   - Ping pong shooter module
