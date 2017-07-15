@@ -10,16 +10,16 @@ Main components and features include:
  
 Robot Controls: 
 
- a: rotate left
+    a: rotate left
 
- d: rotate right
+    d: rotate right
 
- w: move forward
+    w: move forward
 
- s: move backward
+    s: move backward
 
- l: rotate cannon head left
+    l: rotate cannon head left
 
- r: rotate cannon head right
+    r: rotate cannon head right
 
- c: resets cannon head to centre
+    c: resets cannon head to centre
