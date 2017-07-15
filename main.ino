@@ -65,7 +65,14 @@ void loop() {
   //Serial.println("Right IR Read: "+ leftValue);
   
   
-                                                /*Ro
+                                                /*Robot Controls: 
+                                                a: rotate left
+                                                d: rotate right
+                                                w: move forward
+                                                s: move backward
+                                                l: rotate cannon head left
+                                                r: rotate cannon head right
+                                                c: resets cannon head to centre*/
   
   if(Serial.available() > 0){
     //String str = Serial.readString();
